@@ -1,0 +1,10 @@
+{
+    "plugins": ["node_modules/@prettier/plugin-pug"],
+    "singleQuote": true,
+    "trailingComma": "all",
+    "semi": false,
+    "printWidth": 100,
+    "pugAttributeSeparator": "none",
+    "pugSingleQuote": false
+  }
+  
